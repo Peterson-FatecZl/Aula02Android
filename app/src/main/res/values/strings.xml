@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula2_mobile</string>
+    <string name="etDecimal1">Insira o 1°Decimal</string>
+    <string name="etDecimal2">Insira o 2°Decimal</string>
+    <string name="etDecimal3">Insira o 3°Decimal </string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvDelta">Delta:</string>
+    <string name="tvX1">Raiz 1 (X1):</string>
+    <string name="tvX2">Raiz 2 (X2):</string>
+    <string name="tvRaiznula" >Erro:</string>
+</resources>
